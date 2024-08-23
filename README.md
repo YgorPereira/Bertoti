@@ -21,3 +21,5 @@ Linux x Windows?
 -desempenho: Como o sistema operacional Linux, não possui uma interface gráfica, isso acaba o tornando mais veloz em comparação ao windows, a interface gráfica utiliza recursos do sistema e isso acaba deixando o processamento lento.
 
 ## ATIVIDADE 3 - 
+
+## ATIVIDADE 4 - 
